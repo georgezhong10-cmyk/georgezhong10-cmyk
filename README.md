@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/georgezhong10">
-    <img src="https://img.shields.io/badge/GitHub-georgezhong10-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/georgezhong10-cmyk">
+    <img src="https://img.shields.io/badge/GitHub-georgezhong10--cmyk-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:georgezhong10@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -37,19 +37,19 @@ I'm building around LLM infrastructure, inference systems, and low-level perform
 
 | Project | Description | Focus |
 | --- | --- | --- |
-| [LLM Inference Notes](https://github.com/georgezhong10/llm-inference-notes) | Notes, experiments, and benchmarks around LLM serving performance. | `Inference` |
-| [Kernel Playground](https://github.com/georgezhong10/kernel-playground) | Small experiments for understanding low-level performance behavior. | `CUDA / C++` |
-| [Infra Toolkit](https://github.com/georgezhong10/infra-toolkit) | Utilities for profiling, monitoring, and debugging AI infrastructure. | `Systems` |
+| [LLM Inference Notes](https://github.com/georgezhong10-cmyk/llm-inference-notes) | Notes, experiments, and benchmarks around LLM serving performance. | `Inference` |
+| [Kernel Playground](https://github.com/georgezhong10-cmyk/kernel-playground) | Small experiments for understanding low-level performance behavior. | `CUDA / C++` |
+| [Infra Toolkit](https://github.com/georgezhong10-cmyk/infra-toolkit) | Utilities for profiling, monitoring, and debugging AI infrastructure. | `Systems` |
 
 ### GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=georgezhong10&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=georgezhong10&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=georgezhong10-cmyk&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=georgezhong10-cmyk&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgezhong10&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgezhong10-cmyk&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
 ### What I'm Looking For

@@ -13,7 +13,7 @@
 
 在 `README.md` 里搜索并替换：
 
-- `georgezhong10`：如果这不是你的 GitHub 用户名，请替换成真实用户名。
+- `georgezhong10-cmyk`：这是你的 GitHub 用户名；如果以后改名，请同步替换。
 
 在 `assets/profile-banner.svg` 里搜索并替换：
 
