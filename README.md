@@ -1,3 +1,7 @@
+<p align="right">
+  <strong>English</strong> · <a href="./README.zh-CN.md">中文</a>
+</p>
+
 <div align="center">
   <img src="./assets/profile-banner.svg" alt="george - LLM infrastructure and performance engineering" width="100%" />
 </div>
@@ -26,7 +30,7 @@
 
 ### Focus
 
-| Area | What I care about |
+| Area | What I Care About |
 | --- | --- |
 | LLM serving | throughput, tail latency, batching, scheduling, observability |
 | Performance | profiling, memory layout, kernel behavior, CPU/GPU bottlenecks |
@@ -65,7 +69,7 @@ profile:
 
 ### Building Next
 
-| Track | Repository idea | Output |
+| Track | Repository Idea | Output |
 | --- | --- | --- |
 | Inference notes | `llm-inference-notes` | readable notes, diagrams, benchmark logs |
 | Kernel experiments | `kernel-playground` | small C++/CUDA/Rust performance experiments |
@@ -73,14 +77,12 @@ profile:
 
 ### GitHub Signals
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=georgezhong10-cmyk&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=georgezhong10-cmyk&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=georgezhong10-cmyk&theme=github_dark" alt="GitHub profile summary" />
-</p>
+| Signal | Status |
+| --- | --- |
+| Profile direction | LLM infrastructure and performance engineering |
+| Public roadmap | inference notes, kernel experiments, infra tooling |
+| Collaboration fit | model serving, benchmarking, profiling, runtime optimization |
+| Repository home | [github.com/georgezhong10-cmyk](https://github.com/georgezhong10-cmyk) |
 
 ### Open To
 
